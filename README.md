@@ -6,15 +6,7 @@ This is a demo website.
 * `styles.css` contains the styles (background, colors, fonts, etc...)
 * `main.js` contains the JavaScript code for the interactive elements of the site (clicking on the image to interact with it)
 
-## Part 1: Fork This repository
-
-This repository is currently stored within the `code4policy` account on GitHub. By creating a fork, you will be making a copy of it under your own GitHub account. The fork will retain a connection to the original repository, however it will be a full copy of the code and the entire Git history.
-
-![](https://www.evernote.com/shard/s150/sh/b9e1620e-5f1d-4bac-9b89-df3b46007c13/6f42203c4318df0c/res/3666da39-069a-47a8-ad14-8db56c12ec17)
-
-In this exercise, we're going to focus on developing code locally (on your computer) and pushing it up to the remote repository (your fork on GitHub).
-
-## Part 2: Host Your Website
+## Part 1: Host Your Website
 
 GitHub also doubles as a static web server! If you enable a feature called "[GitHub Pages](https://pages.github.com/)", in addition to storing your files, GitHub will run a static web server that can serve those pages on the web.
 
@@ -24,7 +16,7 @@ GitHub also doubles as a static web server! If you enable a feature called "[Git
 
 2. Go to the specified URL (it will likely be username.github.io/simple-website, where "username" is your GitHub username) and you should see the HTML page we created. You might have to wait a minute or two before it shows up.
 
-## Part 3: Developing Locally (on your computer)
+## Part 2: Developing Locally (on your computer)
 
 ### Cloning The Repository (making a local copy on your computer)
 
@@ -129,7 +121,7 @@ Remmber,
 
 Use these commands frequently to build your mental model of what is going on in your Git repository.
 
-### Part 4: Tasks
+### Part 3: Tasks
 
 1. Make a change
 2. Commit that change
